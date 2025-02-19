@@ -1,0 +1,42 @@
+# Gerenciador de clinica médica
+
+ **Projeto de estudo em C# com API REST, Arquitetura Limpa, CQRS, fluent Validation**
+
+## 📌 Sobre o projeto  
+O **Gerenciador** é uma aplicação backend desenvolvida em **C#**, seguindo **boas práticas de arquitetura** para garantir escalabilidade, organização e facilidade de manutenção.  
+
+O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**, oferecendo um conjunto de operações CRUD e consultas eficientes.  
+
+---
+
+## 🛠️ Tecnologias e padrões utilizados  
+
+- **C#** (.NET 8.0)  
+- **API REST** com **ASP.NET Core**
+- **Arquitetura Limpa**  
+- **Padrão CQRS**
+- **Fluent Validation**  
+- **Entity Framework Core**  
+- **SQL Server**  
+
+---
+
+## 📂 Estrutura do Projeto  
+
+- O projeto está organizado seguindo os princípios da Clean Architecture, com as seguintes camadas:
+
+- API: Camada de apresentação, responsável por expor os endpoints da aplicação.
+
+- Application: Contém a lógica de negócio e implementação do padrão CQRS (Commands e Queries).
+
+- Domain: Camada de domínio, com as entidades e interfaces principais.
+
+ - Infrastructure: Camada de infraestrutura, responsável por acesso a dados (Entity Framework), repositórios e configurações externas.
+
+ ## 🔧 Funcionalidades  
+
+✔️ **Médico**: CRUD + busca por **ID** e (**CRM** em breve)  
+✔️ **Paciente**: CRUD + busca por **ID** e **CPF**  
+✔️ **Atendimento**: CRUD completo  
+✔️ **Serviço**: CRUD completo  
+
