@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.application\\validators\\createmedicovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|solutionrelative:gerenciadordeclinica.application\\validators\\createmedicovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|solutionrelative:gerenciadordeclinica.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +22,44 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PacienteController.cs",
-              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
-              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
-              "RelativeToolTip": "GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAAcAAAAAAAAAA==",
+              "Title": "CreateMedicoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Validators\\CreateMedicoValidator.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.Application\\Validators\\CreateMedicoValidator.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Validators\\CreateMedicoValidator.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.Application\\Validators\\CreateMedicoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:32:59.444Z",
+              "WhenOpened": "2025-02-19T03:20:49.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.API\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:32:59.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GetPacienteByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Queries\\GetPacienteById\\GetPacienteByIdHandler.cs",
               "RelativeDocumentMoniker": "GerenciadorDeClinica.Application\\Queries\\GetPacienteById\\GetPacienteByIdHandler.cs",
@@ -43,8 +67,7 @@
               "RelativeToolTip": "GerenciadorDeClinica.Application\\Queries\\GetPacienteById\\GetPacienteByIdHandler.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:26:39.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T02:26:39.865Z"
             }
           ]
         }
