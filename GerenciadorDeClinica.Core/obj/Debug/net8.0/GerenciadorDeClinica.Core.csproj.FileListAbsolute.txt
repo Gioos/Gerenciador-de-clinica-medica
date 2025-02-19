@@ -1,0 +1,11 @@
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\bin\Debug\net8.0\GerenciadorDeClinica.Core.deps.json
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\bin\Debug\net8.0\GerenciadorDeClinica.Core.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\bin\Debug\net8.0\GerenciadorDeClinica.Core.pdb
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.AssemblyInfoInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.AssemblyInfo.cs
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.csproj.CoreCompileInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\refint\GerenciadorDeClinica.Core.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.pdb
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\ref\GerenciadorDeClinica.Core.dll

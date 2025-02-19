@@ -1,0 +1,334 @@
+[
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.AtendimentosController",
+    "Method": "GetAtendimentos",
+    "RelativePath": "api/atendimentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.AtendimentosController",
+    "Method": "Post",
+    "RelativePath": "api/atendimentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.InsertAtendimento.InsertAtendimentoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.AtendimentosController",
+    "Method": "GetAtendimentoById",
+    "RelativePath": "api/atendimentos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.AtendimentosController",
+    "Method": "Put",
+    "RelativePath": "api/atendimentos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.UpdateAtendimento.UpdateAtendimentoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.AtendimentosController",
+    "Method": "Delete",
+    "RelativePath": "api/atendimentos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
+    "Method": "GetAllMedicos",
+    "RelativePath": "api/medicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
+    "Method": "Post",
+    "RelativePath": "api/medicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.MedicoCommands.InsertMedico.InsertMedicoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
+    "Method": "GetMedicoById",
+    "RelativePath": "api/medicos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
+    "Method": "Put",
+    "RelativePath": "api/medicos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.MedicoCommands.UpdateMedico.UpdateMedicoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
+    "Method": "Delete",
+    "RelativePath": "api/medicos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "GetAllPacientes",
+    "RelativePath": "api/pacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "Post",
+    "RelativePath": "api/pacientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.InsertPaciente.InsertPacienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "GetPacienteById",
+    "RelativePath": "api/pacientes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "Put",
+    "RelativePath": "api/pacientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.UpdatePaciente.UpdatePacienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "Delete",
+    "RelativePath": "api/pacientes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.PacientesController",
+    "Method": "GetPacienteByCpf",
+    "RelativePath": "api/pacientes/cpf/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.ServicoController",
+    "Method": "GetServicos",
+    "RelativePath": "api/servicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.ServicoController",
+    "Method": "Post",
+    "RelativePath": "api/servicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.ServicoCommands.InsertServico.InsertServicoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.ServicoController",
+    "Method": "GetServicoById",
+    "RelativePath": "api/servicos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.ServicoController",
+    "Method": "Put",
+    "RelativePath": "api/servicos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.ServicoCommands.UpdateServico.UpdateServicoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.ServicoController",
+    "Method": "Delete",
+    "RelativePath": "api/servicos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

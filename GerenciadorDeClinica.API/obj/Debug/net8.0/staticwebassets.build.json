@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sTFi4yHD1aIwMKCqr/26+Os6zttBPPmlXQx2sNFGuW8=",
+  "Source": "GerenciadorDeClinica.API",
+  "BasePath": "_content/GerenciadorDeClinica.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

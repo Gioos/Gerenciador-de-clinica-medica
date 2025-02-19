@@ -1,0 +1,17 @@
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Infrastructure.deps.json
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Infrastructure.runtimeconfig.json
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Infrastructure.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Infrastructure.pdb
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Core.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\bin\Debug\net8.0\GerenciadorDeClinica.Core.pdb
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.AssemblyInfo.cs
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\Gerencia.66BCA5AB.Up2Date
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\refint\GerenciadorDeClinica.Infrastructure.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.pdb
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\GerenciadorDeClinica.Infrastructure.genruntimeconfig.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Infrastructure\obj\Debug\net8.0\ref\GerenciadorDeClinica.Infrastructure.dll

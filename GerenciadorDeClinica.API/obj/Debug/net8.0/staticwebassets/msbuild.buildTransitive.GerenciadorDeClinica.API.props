@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GerenciadorDeClinica.API.props" />
+</Project>
