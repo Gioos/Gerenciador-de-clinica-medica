@@ -165,6 +165,7 @@ C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\De
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\GerenciadorDeClinica.API.csproj.CoreCompileInputs.cache
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\GerenciadorDeClinica.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\GerenciadorDeClinica.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\GerenciadorDeClinica.API.sourcelink.json
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\scopedcss\bundle\GerenciadorDeClinica.API.styles.css
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\obj\Debug\net8.0\staticwebassets.development.json

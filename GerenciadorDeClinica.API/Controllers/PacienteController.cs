@@ -1,6 +1,6 @@
 ﻿using GerenciadorDeClinica.Application.Commands.DeletePaciente;
-using GerenciadorDeClinica.Application.Commands.InsertPaciente;
-using GerenciadorDeClinica.Application.Commands.UpdatePaciente;
+using GerenciadorDeClinica.Application.Commands.PacienteCommands.InsertPaciente;
+using GerenciadorDeClinica.Application.Commands.PacienteCommands.UpdatePaciente;
 using GerenciadorDeClinica.Application.Queries.GetAllPacientes;
 using GerenciadorDeClinica.Application.Queries.GetPacienteByCpf;
 using GerenciadorDeClinica.Application.Queries.GetPacienteById;

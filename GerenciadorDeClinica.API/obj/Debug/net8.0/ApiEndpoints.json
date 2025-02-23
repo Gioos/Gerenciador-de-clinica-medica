@@ -19,7 +19,7 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "GerenciadorDeClinica.Application.Commands.InsertAtendimento.InsertAtendimentoCommand",
+        "Type": "GerenciadorDeClinica.Application.Commands.AtendimentoCommands.InsertAtendimento.InsertAtendimentoCommand",
         "IsRequired": true
       }
     ],

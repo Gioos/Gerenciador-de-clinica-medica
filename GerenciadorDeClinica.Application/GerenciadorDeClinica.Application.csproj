@@ -9,13 +9,10 @@
   <ItemGroup>
     <Compile Remove="Queries\NovaPasta1\**" />
     <Compile Remove="Queries\NovaPasta2\**" />
-    <Compile Remove="Queries\NovaPasta\**" />
     <EmbeddedResource Remove="Queries\NovaPasta1\**" />
     <EmbeddedResource Remove="Queries\NovaPasta2\**" />
-    <EmbeddedResource Remove="Queries\NovaPasta\**" />
     <None Remove="Queries\NovaPasta1\**" />
     <None Remove="Queries\NovaPasta2\**" />
-    <None Remove="Queries\NovaPasta\**" />
   </ItemGroup>
 
   <ItemGroup>

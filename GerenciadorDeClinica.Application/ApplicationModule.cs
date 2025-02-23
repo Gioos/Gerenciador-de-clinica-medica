@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 using FluentValidation.AspNetCore;
-using GerenciadorDeClinica.Application.Commands.InsertAtendimento;
+using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.InsertAtendimento;
 using GerenciadorDeClinica.Application.Models.ViewModels;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;

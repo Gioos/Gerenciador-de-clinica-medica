@@ -10,6 +10,7 @@ C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Applicatio
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\GerenciadorDeClinica.Application.AssemblyInfoInputs.cache
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\GerenciadorDeClinica.Application.AssemblyInfo.cs
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\GerenciadorDeClinica.Application.csproj.CoreCompileInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\GerenciadorDeClinica.Application.sourcelink.json
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\Gerencia.DEE0B28C.Up2Date
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\GerenciadorDeClinica.Application.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Application\obj\Debug\net8.0\refint\GerenciadorDeClinica.Application.dll

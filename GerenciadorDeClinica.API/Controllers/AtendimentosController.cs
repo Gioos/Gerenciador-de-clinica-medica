@@ -1,6 +1,6 @@
-﻿using GerenciadorDeClinica.Application.Commands.DeleteAtendimento;
-using GerenciadorDeClinica.Application.Commands.InsertAtendimento;
-using GerenciadorDeClinica.Application.Commands.UpdateAtendimento;
+﻿using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.InsertAtendimento;
+using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.UpdateAtendimento;
+using GerenciadorDeClinica.Application.Commands.DeleteAtendimento;
 using GerenciadorDeClinica.Application.Queries.GetAllAtendimentos;
 using GerenciadorDeClinica.Application.Queries.GetAtendimentoById;
 using MediatR;

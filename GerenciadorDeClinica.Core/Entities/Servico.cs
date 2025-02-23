@@ -18,11 +18,7 @@ namespace GerenciadorDeClinica.Core.Entities
         public int Duracao { get; private set; }
         public List<Atendimento> Atendimentos { get; private set; }
 
-        public void Converte(int duracao)
-        {
-            Duracao = duracao / 60;
-
-        }
+       
         public void UpdateServico(string nome, string descricao, decimal valor)
         {
             Nome = nome;

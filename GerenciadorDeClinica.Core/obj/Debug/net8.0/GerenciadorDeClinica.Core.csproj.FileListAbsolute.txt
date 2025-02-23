@@ -5,6 +5,7 @@ C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\D
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.AssemblyInfoInputs.cache
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.AssemblyInfo.cs
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.csproj.CoreCompileInputs.cache
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.sourcelink.json
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\refint\GerenciadorDeClinica.Core.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.Core\obj\Debug\net8.0\GerenciadorDeClinica.Core.pdb
