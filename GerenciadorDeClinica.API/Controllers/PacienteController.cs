@@ -1,9 +1,9 @@
-﻿using GerenciadorDeClinica.Application.Commands.DeletePaciente;
+﻿using GerenciadorDeClinica.Application.Commands.PacienteCommands.DeletePaciente;
 using GerenciadorDeClinica.Application.Commands.PacienteCommands.InsertPaciente;
 using GerenciadorDeClinica.Application.Commands.PacienteCommands.UpdatePaciente;
-using GerenciadorDeClinica.Application.Queries.GetAllPacientes;
-using GerenciadorDeClinica.Application.Queries.GetPacienteByCpf;
-using GerenciadorDeClinica.Application.Queries.GetPacienteById;
+using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetAllPacientes;
+using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetPacienteByCpf;
+using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetPacienteById;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

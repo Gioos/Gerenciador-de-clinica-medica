@@ -38,6 +38,7 @@ namespace GerenciadorDeClinica.Infrastructure.Persistence.Repositories
         public Task<List<Medico>> GetAll()
         {
             var medicos = _context.Medicos
+                .AsNoTracking()
                 .Include(m => m.Atendimentos)
                 .Where(m => !m.IsDeleted)
                 .ToListAsync();
@@ -48,6 +49,7 @@ namespace GerenciadorDeClinica.Infrastructure.Persistence.Repositories
         public async Task<Medico?> GetById(int id)
         {
             return await _context.Medicos
+                .AsNoTracking()
                 .SingleOrDefaultAsync(m => m.Id == id);
         }
 

@@ -56,7 +56,7 @@
       },
       {
         "Name": "command",
-        "Type": "GerenciadorDeClinica.Application.Commands.UpdateAtendimento.UpdateAtendimentoCommand",
+        "Type": "GerenciadorDeClinica.Application.Commands.AtendimentoCommands.UpdateAtendimento.UpdateAtendimentoCommand",
         "IsRequired": true
       }
     ],
@@ -177,7 +177,7 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "GerenciadorDeClinica.Application.Commands.InsertPaciente.InsertPacienteCommand",
+        "Type": "GerenciadorDeClinica.Application.Commands.PacienteCommands.InsertPaciente.InsertPacienteCommand",
         "IsRequired": true
       }
     ],
@@ -214,7 +214,7 @@
       },
       {
         "Name": "command",
-        "Type": "GerenciadorDeClinica.Application.Commands.UpdatePaciente.UpdatePacienteCommand",
+        "Type": "GerenciadorDeClinica.Application.Commands.PacienteCommands.UpdatePaciente.UpdatePacienteCommand",
         "IsRequired": true
       }
     ],

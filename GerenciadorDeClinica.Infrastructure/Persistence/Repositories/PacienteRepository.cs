@@ -34,6 +34,7 @@ namespace GerenciadorDeClinica.Infrastructure.Persistence.Repositories
         public Task<List<Paciente>> GetAll()
         {
             var pacientes = _context.Pacientes
+                .AsNoTracking()
                 .Include( p => p.Atendimentos)
                 .Where(p => !p.IsDeleted)
                 .ToListAsync();
@@ -45,12 +46,14 @@ namespace GerenciadorDeClinica.Infrastructure.Persistence.Repositories
         public async Task<Paciente?> GetByCpf(string cpf)
         {
             return await _context.Pacientes
+                .AsNoTracking()
                 .SingleOrDefaultAsync(p => p.CPF == cpf);
         }
 
         public async Task<Paciente?> GetById(int id)
         {
             return await _context.Pacientes
+                .AsNoTracking()
                 .SingleOrDefaultAsync(p => p.Id == id);
         }
 

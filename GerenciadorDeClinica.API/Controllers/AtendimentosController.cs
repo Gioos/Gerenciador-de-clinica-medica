@@ -1,8 +1,8 @@
-﻿using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.InsertAtendimento;
+﻿using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.DeleteAtendimento;
+using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.InsertAtendimento;
 using GerenciadorDeClinica.Application.Commands.AtendimentoCommands.UpdateAtendimento;
-using GerenciadorDeClinica.Application.Commands.DeleteAtendimento;
-using GerenciadorDeClinica.Application.Queries.GetAllAtendimentos;
-using GerenciadorDeClinica.Application.Queries.GetAtendimentoById;
+using GerenciadorDeClinica.Application.Queries.AtendimentoQueries.GetAllAtendimentos;
+using GerenciadorDeClinica.Application.Queries.AtendimentoQueries.GetAtendimentoById;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

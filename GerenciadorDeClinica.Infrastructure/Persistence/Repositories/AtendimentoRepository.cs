@@ -30,6 +30,7 @@ namespace GerenciadorDeClinica.Infrastructure.Repositories
         public Task<List<Atendimento>> GetAll()
         {
             var atendimentos = _context.Atendimentos
+                .AsNoTracking()
                 .Include(p => p.Paciente)
                 .Include(m => m.Medico)
                 .Where(atendimentos => !atendimentos.IsDeleted)
@@ -41,6 +42,7 @@ namespace GerenciadorDeClinica.Infrastructure.Repositories
         public async Task<Atendimento?> GetById(int id)
         {
             return await _context.Atendimentos
+                .AsNoTracking()
                 .SingleOrDefaultAsync(a => a.Id == id);
         }
 
