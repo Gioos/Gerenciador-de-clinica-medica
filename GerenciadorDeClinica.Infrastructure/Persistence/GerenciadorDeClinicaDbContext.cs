@@ -14,6 +14,7 @@ namespace GerenciadorDeClinica.Infrastructure.Persistence
         public DbSet<Medico> Medicos { get; set; }
         public DbSet<Atendimento> Atendimentos { get; set; }
         public DbSet<Servico> Servicos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

@@ -14,6 +14,7 @@ C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\De
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -51,6 +52,10 @@ C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\De
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\SendGrid.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\StarkbankEcdsa.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\gioos\source\repos\GerenciadorDeClinica\GerenciadorDeClinica.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

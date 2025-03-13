@@ -4,7 +4,7 @@ using GerenciadorDeClinica.Application.Commands.ServicoCommands.UpdateServico;
 using GerenciadorDeClinica.Application.Queries.ServicoQueries.GetAllServicos;
 using GerenciadorDeClinica.Application.Queries.ServicoQueries.GetServicoById;
 using MediatR;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GerenciadorDeClinica.API.Controllers
@@ -21,6 +21,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IActionResult> GetServicos()
         {
             var servicos = await _mediator.Send(new GetAllServicosQuery());
@@ -28,6 +29,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<IActionResult> GetServicoById(int id)
         {
             var servico = await _mediator.Send(new GetServicoByIdQuery(id));
@@ -39,6 +41,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Post(InsertServicoCommand command)
         {
             var result = await _mediator.Send(command);
@@ -50,6 +53,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<IActionResult> Put(int id, UpdateServicoCommand command)
         {
             var result = await _mediator.Send(command);
@@ -61,6 +65,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
 
         public async Task<IActionResult> Delete(int id)
         {

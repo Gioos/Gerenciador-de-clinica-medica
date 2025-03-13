@@ -10,14 +10,14 @@
             Nascimento = nascimento;
             Telefone = telefone;
             Email = email;
-            CPF = cPF;
+            CPF = cPF.Trim();
             Endereco = endereco;
             TipoSanguineo = tipoSanguineo;
             Peso = peso;
             Altura = altura;
             Atendimentos = [];
 
-           
+
         }
 
         public string Nome { get; private set; }
@@ -31,6 +31,8 @@
         public double Peso { get; private set; }
         public double Altura { get; private set; }
         public List<Atendimento> Atendimentos { get; private set; }
+        //public Usuario? Usuario { get; private set; }
+
 
 
 

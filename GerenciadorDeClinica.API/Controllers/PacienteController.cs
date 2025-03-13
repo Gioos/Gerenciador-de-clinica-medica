@@ -5,6 +5,7 @@ using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetAllPacientes;
 using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetPacienteByCpf;
 using GerenciadorDeClinica.Application.Queries.PacienteQueries.GetPacienteById;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GerenciadorDeClinica.API.Controllers
@@ -21,6 +22,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllPacientes()
         {
             var query = new GetAllPacientesQuery();
@@ -31,6 +33,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<IActionResult> GetPacienteById(int id)
         {
             var paciente = await _mediator.Send(new GetPacienteByIdQuery(id));
@@ -42,6 +45,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpGet("cpf/{cpf}")]
+        [Authorize]
 
         public async Task<IActionResult> GetPacienteByCpf(string cpf)
         {
@@ -54,6 +58,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Post(InsertPacienteCommand command)
         {
             var result = await _mediator.Send(command);
@@ -66,6 +71,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<IActionResult> Put(int id, UpdatePacienteCommand command)
         {
             
@@ -78,6 +84,7 @@ namespace GerenciadorDeClinica.API.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             var result = await _mediator.Send(new DeletePacienteCommand(id));

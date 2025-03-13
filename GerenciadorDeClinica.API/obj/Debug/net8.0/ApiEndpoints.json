@@ -79,6 +79,70 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginInputModel",
+        "Type": "GerenciadorDeClinica.Application.Models.InputModels.LoginInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.LoginController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/auth/password-recovery/change",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "GerenciadorDeClinica.Application.Models.InputModels.ChangePasswordInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.LoginController",
+    "Method": "RequestPasswordRecovery",
+    "RelativePath": "api/auth/password-recovery/request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "GerenciadorDeClinica.Application.Models.InputModels.PasswordRecoveryInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.LoginController",
+    "Method": "ValidateRecoveryCode",
+    "RelativePath": "api/auth/password-recovery/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "GerenciadorDeClinica.Application.Models.InputModels.ValidateRecoveryCodeInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GerenciadorDeClinica.API.Controllers.MedicosController",
     "Method": "GetAllMedicos",
     "RelativePath": "api/medicos",
@@ -326,6 +390,22 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorDeClinica.API.Controllers.UsuarioController",
+    "Method": "Post",
+    "RelativePath": "api/usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GerenciadorDeClinica.Application.Commands.UsuarioCommands.AdicionarUsuarioCommand",
         "IsRequired": true
       }
     ],

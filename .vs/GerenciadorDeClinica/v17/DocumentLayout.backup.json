@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.infrastructure\\persistence\\mappings\\atendimentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|solutionrelative:gerenciadordeclinica.infrastructure\\persistence\\mappings\\atendimentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|solutionrelative:gerenciadordeclinica.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.infrastructure\\persistence\\gerenciadordeclinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|solutionrelative:gerenciadordeclinica.infrastructure\\persistence\\gerenciadordeclinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|solutionrelative:gerenciadordeclinica.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.infrastructure\\persistence\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|solutionrelative:gerenciadordeclinica.infrastructure\\persistence\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.application\\commands\\novasenhacommands\\novasenhahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|solutionrelative:gerenciadordeclinica.application\\commands\\novasenhacommands\\novasenhahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.infrastructure\\persistence\\repositories\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|solutionrelative:gerenciadordeclinica.infrastructure\\persistence\\repositories\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CAC1F7-8682-4DBE-B09B-716741728963}|GerenciadorDeClinica.Infrastructure\\GerenciadorDeClinica.Infrastructure.csproj|solutionrelative:gerenciadordeclinica.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.application\\commands\\novasenhacommands\\novasenhacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB67092E-F315-49B0-939F-F402FFC42ED6}|GerenciadorDeClinica.Application\\GerenciadorDeClinica.Application.csproj|solutionrelative:gerenciadordeclinica.application\\commands\\novasenhacommands\\novasenhacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|c:\\users\\gioos\\source\\repos\\gerenciadordeclinica\\gerenciadordeclinica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E778DC20-B185-41A5-9B5E-A95777022E55}|GerenciadorDeClinica.API\\GerenciadorDeClinica.API.csproj|solutionrelative:gerenciadordeclinica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +47,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AtendimentoMap.cs",
-              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Mappings\\AtendimentoMap.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeClinica.Infrastructure\\Persistence\\Mappings\\AtendimentoMap.cs",
-              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Mappings\\AtendimentoMap.cs",
-              "RelativeToolTip": "GerenciadorDeClinica.Infrastructure\\Persistence\\Mappings\\AtendimentoMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:10:16.607Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\appsettings.json",
+              "RelativeToolTip": "GerenciadorDeClinica.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T02:58:05.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GerenciadorDeClinicaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\GerenciadorDeClinicaDbContext.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeClinica.Infrastructure\\Persistence\\GerenciadorDeClinicaDbContext.cs",
-              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\GerenciadorDeClinicaDbContext.cs",
-              "RelativeToolTip": "GerenciadorDeClinica.Infrastructure\\Persistence\\GerenciadorDeClinicaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:04:17.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\PacienteRepository.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\PacienteRepository.cs",
-              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\PacienteRepository.cs",
-              "RelativeToolTip": "GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\PacienteRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:03:44.26Z",
+              "WhenOpened": "2025-03-13T02:51:51.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MedicoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\MedicoRepository.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\MedicoRepository.cs",
-              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\MedicoRepository.cs",
-              "RelativeToolTip": "GerenciadorDeClinica.Infrastructure\\Persistence\\Repositories\\MedicoRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAuAAAAAAAAAA==",
+              "Title": "InfrastructureModule.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\InfrastructureModule.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.Infrastructure\\InfrastructureModule.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Infrastructure\\InfrastructureModule.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.Infrastructure\\InfrastructureModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:10:46.272Z",
+              "WhenOpened": "2025-03-13T02:46:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NovaSenhaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaHandler.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaHandler.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:42:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NovaSenhaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaCommand.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaCommand.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaCommand.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.Application\\Commands\\NovaSenhaCommands\\NovaSenhaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:40:43.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeClinica.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gioos\\source\\repos\\GerenciadorDeClinica\\GerenciadorDeClinica.API\\Program.cs",
+              "RelativeToolTip": "GerenciadorDeClinica.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:52:09.59Z",
               "EditorCaption": ""
             }
           ]

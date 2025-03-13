@@ -16,7 +16,8 @@
             TipoSanguineo = tipoSanguineo;
             Especialidade = especialidade;
             CRM = cRM;
-            Atendimentos = [];  
+            Atendimentos = [];
+            
         }
 
         public string Nome { get; private set; }
@@ -30,6 +31,7 @@
         public string Especialidade { get; private set; }
         public string CRM { get; private set; }
         public List<Atendimento> Atendimentos { get; private set; }
+        //public Usuario? Usuario { get; private set; }
 
         public void UpdateMedico(string telefone, string especialidade)
         {
