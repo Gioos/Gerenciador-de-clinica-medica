@@ -1,6 +1,6 @@
 # Gerenciador de clinica médica
 
- **Projeto de estudo em C# com API REST, Arquitetura Limpa, Padrão CQRS, Padrão Repository, Fluent Validation, Acesso à Dados com EF, Autorização e Autenticação com JWT e recuperação de senha com e-mail sendo enviado via SendGrid **
+Projeto de estudo em C# com API REST, Arquitetura Limpa, Padrão CQRS, Padrão Repository, Fluent Validation, Acesso à Dados com EF, Autorização e Autenticação com JWT e recuperação de senha com e-mail sendo enviado via SendGrid .
 
 ## 📌 Sobre o projeto  
 O **Gerenciador** é uma aplicação backend desenvolvida em **C#**, seguindo **boas práticas de arquitetura** para garantir escalabilidade, organização e facilidade de manutenção.  
