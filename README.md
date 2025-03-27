@@ -44,5 +44,7 @@ O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**
 ✔️ **Atendimento**: CRUD completo  
 ✔️ **Serviço**: CRUD completo  
 ✔️ Autenticação e Autorização 
+✔️ Recuperação de senha com validação de código de acesso
+
 
 
