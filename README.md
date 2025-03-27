@@ -5,7 +5,7 @@ Projeto de estudo em C# com API REST, Arquitetura Limpa, Padrão CQRS, Padrão R
 ## 📌 Sobre o projeto  
 O **Gerenciador** é uma aplicação backend desenvolvida em **C#**, seguindo **boas práticas de arquitetura** para garantir escalabilidade, organização e facilidade de manutenção.  
 
-O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**, oferecendo um conjunto de operações CRUD e consultas eficientes.  
+O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**, oferecendo um conjunto de operações CRUD e consultas eficientes.  Onde apenas usuário autenticado tem autorização para isso.
 
 ---
 
@@ -19,7 +19,7 @@ O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**
 - **Entity Framework Core**  
 - **SQL Server**
 - **Autenticação e Autorização com JWT**
-- **Envio de e-mail com SendGrid**  
+- **Recuperação de senha e Validação de código de acesso via e-mail com SendGrid**  
 
 
 
@@ -39,8 +39,10 @@ O sistema permite a **gestão de médicos, pacientes, atendimentos e serviços**
 
  ## 🔧 Funcionalidades  
 
-✔️ **Médico**: CRUD + busca por **ID** e (**CRM** em breve)  
+✔️ **Médico**: CRUD + busca por **ID**  
 ✔️ **Paciente**: CRUD + busca por **ID** e **CPF**  
 ✔️ **Atendimento**: CRUD completo  
 ✔️ **Serviço**: CRUD completo  
+✔️ Autenticação e Autorização 
+
 
